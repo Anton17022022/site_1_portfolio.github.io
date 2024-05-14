@@ -43,8 +43,6 @@ section.head div.head_text-mid p.top{
     font-weight: 400;
     font-size: 4.155vw;
     letter-spacing: 0.0999em;
-    text-align: center;
-    color: var(--white-color);
     text-transform: uppercase;
 }
 section.head div.head_text-mid p.bottom {
@@ -52,16 +50,12 @@ section.head div.head_text-mid p.bottom {
     font-family: var(--font-family);
     font-weight: 600;
     font-size: 1.12vw;
-    text-align: center;
-    color: var(--white-color);
 }
 .head_text-bottom {
     font-family: var(--font-family);
     font-weight: 600;
     font-size: 0.76vw;
     letter-spacing: 0.34em;
-    text-align: center;
-    color: var(--white-color);
     text-transform: uppercase;
     margin: 15.4% 0 0 0.255%;
 }
